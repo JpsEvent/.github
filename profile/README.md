@@ -4,5 +4,5 @@
 # 開発標準
 - Maven管理
 # パッケージ標準命名
-- ``gg.jps.<pluginName>``
-- ``com.github.javajava19.<pluginName>``
+- ``gg.jps.event.<pluginName>``
+- ``com.github.jpsevent.<pluginName>``
